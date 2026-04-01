@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "7a58bb27ddda43aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "590844af5f300ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818ba6b7ea1f4aac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4ed4d07cdc5af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "744d9c98979118ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0c8e5b8491312d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83bc6182e81863b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6bc5d663bb37bea1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba3abb831e71c0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "834dcfb0bd88eb94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffacbba40d766c9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.)"
+            }
+          },
+          {
+            "id": "ae51fe6255f03c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.)"
+            }
+          },
+          {
+            "id": "17eebf2eed8823f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98fd9b54cedac61b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d80816a9f08a0a77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.)"
+            }
+          },
+          {
+            "id": "725c0ec465f1d241",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc0c8e5b8491312d",
+  "lastOpenFiles": [
+    "2026-02-06.md",
+    "Untitled.md",
+    "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Welcome.md",
+    "Livros",
+    "create a link.md"
+  ]
+}
