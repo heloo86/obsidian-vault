@@ -11,12 +11,29 @@
             "id": "818ba6b7ea1f4aac",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf"
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "6b03df5828836950",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-09 15.40.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-09 15.40.38.excalidraw"
             }
           },
           {
@@ -25,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutistu.md",
+                "file": "2026-02-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tutistu"
+              "title": "2026-02-06"
             }
           }
         ],
@@ -193,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,15 +221,20 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bc0c8e5b8491312d",
+  "active": "6b03df5828836950",
   "lastOpenFiles": [
+    "Pasted Image 20260409165129_248.png",
+    "Sem título.canvas",
+    "Excalidraw/Drawing 2026-04-09 15.40.38.excalidraw.md",
+    "Excalidraw",
     "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
-    "tutistu.md",
     "2026-02-06.md",
     "Untitled.md",
+    "tutistu.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.canvas",
