@@ -21,12 +21,10 @@
             "id": "6b03df5828836950",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Digrama - Papelo.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Digrama - Papelo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -70,7 +68,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -204,16 +202,22 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bc0c8e5b8491312d",
+  "active": "6b03df5828836950",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-09 18.17.30.excalidraw.md",
+    "aaaaaa.md",
+    "Sem título.canvas",
     "Excalidraw/Digrama - Papelo.md",
+    "Excalidraw/Drawing 2026-04-09 18.20.27.excalidraw.md",
+    "Kanban.md",
+    "Sem título.md",
+    "Papelo",
+    "Excalidraw/Drawing 2026-04-09 18.17.30.excalidraw.md",
     "Padrões de Projetos Soluções Reutilizáveis (Gamma, Erich  johnson, Ralph  Helm etc.).pdf",
     "Teste.md",
-    "Sem título.canvas",
     "Untitled.md",
     "tutistu.md",
     "Pasted Image 20260409165129_248.png",
