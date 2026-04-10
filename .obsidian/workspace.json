@@ -103,9 +103,21 @@
               "icon": "lucide-file",
               "title": "Spring Security"
             }
+          },
+          {
+            "id": "6c64e383ea35e697",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Papelo/diagrama-spring-security.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "diagrama-spring-security"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -286,8 +298,9 @@
   },
   "active": "bc0c8e5b8491312d",
   "lastOpenFiles": [
-    "Papelo/Rabisco - cadastro.md",
     "Papelo/Spring Security.md",
+    "Papelo/diagrama-spring-security.md",
+    "Papelo/Rabisco - cadastro.md",
     "Papelo/Biblioteca - cadastro e log in.md",
     "Papelo/Kanban.md",
     "Untitled Kanban.md",
