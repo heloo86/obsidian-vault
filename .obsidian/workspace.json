@@ -11,16 +11,12 @@
             "id": "c4d6e49310384b65",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Papelo/Entendendo Security.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 414,
-                "zoom": 1.655
+                "file": "Excalidraw/Digrama - Papelo.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Entendendo Security"
+              "icon": "excalidraw-icon",
+              "title": "Digrama - Papelo"
             }
           }
         ]
@@ -202,15 +198,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "725c0ec465f1d241",
+  "active": "c4d6e49310384b65",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Papelo/Entendendo Security.pdf",
-    "Papelo/Biblioteca - cadastro e log in.md",
-    "Papelo/Kanban.md",
-    "Papelo/Rabisco - cadastro.md",
-    "Papelo/Spring Security.md",
     "Excalidraw/Drawing 2026-04-10 01.24.23.excalidraw.md",
+    "Papelo/Entendendo Security.pdf",
+    "Papelo/Kanban.md",
+    "Papelo/Spring Security.md",
+    "Papelo/Rabisco - cadastro.md",
+    "conflict-files-obsidian-git.md",
+    "Papelo/Biblioteca - cadastro e log in.md",
     "Papelo/diagrama-spring-security.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
