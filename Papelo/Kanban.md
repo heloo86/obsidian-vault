@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## to do
 
-- [ ] [[aaaaaa]]
 
 
 ## doing
