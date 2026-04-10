@@ -2,7 +2,7 @@
 
 Criar o projeto com Spring Security
 - [x] pesquisar o que é 
-- [ ] como funciona
+- [x] como funciona
 - [ ] como implementar
 - [ ] como usar
 
