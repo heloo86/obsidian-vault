@@ -69,16 +69,6 @@
             }
           },
           {
-            "id": "5ab51de58b4a9d31",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
-          },
-          {
             "id": "6631911bd9920ebc",
             "type": "leaf",
             "state": {
@@ -108,16 +98,38 @@
             "id": "6c64e383ea35e697",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "637d8814a950cac2",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "325067299b6b1b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Papelo/diagrama-spring-security.md"
+                "file": "Papelo/Spring Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "diagrama-spring-security"
+              "icon": "lucide-file",
+              "title": "Spring Security"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -298,12 +310,12 @@
   },
   "active": "bc0c8e5b8491312d",
   "lastOpenFiles": [
-    "Papelo/Spring Security.md",
-    "Papelo/diagrama-spring-security.md",
     "Papelo/Rabisco - cadastro.md",
+    "Papelo/diagrama-spring-security.md",
+    "Papelo/Spring Security.md",
+    "Untitled Kanban.md",
     "Papelo/Biblioteca - cadastro e log in.md",
     "Papelo/Kanban.md",
-    "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "Excalidraw/Digrama - Papelo.md",
     "tasks/Untitled Kanban.md",
