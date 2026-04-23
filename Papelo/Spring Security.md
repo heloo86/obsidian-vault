@@ -8,7 +8,7 @@ Criar o projeto com Spring Security
 
 https://en.wikipedia.org/wiki/Spring_Security
 # O que é ?
-É um framework para java que fornece recursos de segurança como autenticação e autorização em andpoints
+É um framework para java que fornece recursos de segurança como autenticação e autorização em endpoints
 
 # Como funciona
 [[Entendendo Security.pdf]]
