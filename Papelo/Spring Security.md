@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Spring_Security
 # Como funciona
 [[Entendendo Security.pdf]]
 # Como implementar
+https://spring.io/guides/gs/securing-web
+
 https://medium.com/cwi-software/come%C3%A7ando-com-spring-security-86a3caec8c40
 
 
