@@ -237,8 +237,7 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "3f48b844aa33ef9b",
