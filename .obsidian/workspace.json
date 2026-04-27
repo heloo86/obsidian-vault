@@ -53,7 +53,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Digrama - Papelo.md"
+                "file": "Papelo/Digrama - Papelo.md"
               },
               "icon": "excalidraw-icon",
               "title": "Digrama - Papelo"
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,13 +242,14 @@
   },
   "active": "3f48b844aa33ef9b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-10 01.24.23.excalidraw.md",
-    "Papelo/Kanban.md",
     "Papelo/Rabisco - cadastro.md",
-    "Papelo/Spring Security.md",
-    "Papelo/Entendendo Security.pdf",
+    "Papelo/Drawing 2026-04-10 01.24.23.excalidraw.md",
+    "Papelo/Spring",
+    "Papelo/Spring/Entendendo Security.pdf",
+    "Papelo/Digrama - Papelo.md",
+    "Papelo/Kanban.md",
+    "Papelo/Spring/Spring Security.md",
     "diagrama-spring-security.md",
-    "Excalidraw/Digrama - Papelo.md",
     "conflict-files-obsidian-git.md",
     "Papelo/Biblioteca - cadastro e log in.md",
     "Papelo/diagrama-spring-security.md",
