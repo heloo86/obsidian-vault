@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## backlog
 
+- [ ] Definir como vai funcionar o cadastro e o login
+- [ ] Criar api de cadastro com Spring Security
+- [ ] Estruturar o sistema - como organizar cadastro e operações
 
 
 ## to do
