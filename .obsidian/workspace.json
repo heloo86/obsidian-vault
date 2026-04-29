@@ -11,24 +11,28 @@
             "id": "ab207cfc6bf573cf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Papelo/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Papelo/Digrama - Papelo.md"
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "excalidraw-icon",
+              "title": "Digrama - Papelo"
+            }
+          },
+          {
+            "id": "aca229a0d5cdf53e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Papelo/Digrama - Papelo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Digrama - Papelo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +211,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ab207cfc6bf573cf",
+  "active": "aca229a0d5cdf53e",
   "lastOpenFiles": [
+    "Papelo/Diagrama de caso de uso.md",
+    "Papelo/Digrama - Papelo.md",
+    "Excalidraw",
+    "Papelo/Kanban.md",
     "conflict-files-obsidian-git.md",
     "Papelo/Spring/Spring Security.md",
     "Papelo/Spring/Entendendo Security.pdf",
     "Papelo/Spring",
-    "Papelo/Digrama - Papelo.md",
     "Papelo/diagrama-spring-security.md",
     "Papelo/Entendendo Security.pdf",
     "Excalidraw/Drawing 2026-04-10 01.24.23.excalidraw.md",
@@ -221,7 +228,6 @@
     "Papelo/Diagrama_260410_012314.sdocx",
     "Papelo/Rabisco - cadastro.md",
     "Papelo/Biblioteca - cadastro e log in.md",
-    "Papelo/Kanban.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "Excalidraw/Digrama - Papelo.md",
@@ -241,7 +247,6 @@
     "tutistu.md",
     "Pasted Image 20260409165129_248.png",
     "2026-02-06.md",
-    "Excalidraw",
     "Untitled.base",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
