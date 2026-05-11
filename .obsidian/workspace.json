@@ -69,10 +69,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Papelo/Rabisco - cadastro.md"
+                "file": "Papelo/Diagrama de caso de uso.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Rabisco - cadastro"
+              "title": "Diagrama de caso de uso"
             }
           }
         ],
@@ -255,15 +255,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "725c0ec465f1d241",
+  "active": "5af8fef5169c30d5",
   "lastOpenFiles": [
-    "Papelo/Rabisco - cadastro.md",
-    "conflict-files-obsidian-git.md",
-    "Papelo/Spring/Entendendo Security.pdf",
-    "Papelo/Diagrama de caso de uso.md",
-    "Papelo/Spring/Spring Security.md",
     "Papelo/Digrama - Papelo.md",
     "Papelo/Kanban.md",
+    "Papelo/Rabisco - cadastro.md",
+    "Papelo/Diagrama de caso de uso.md",
+    "conflict-files-obsidian-git.md",
+    "Papelo/Spring/Entendendo Security.pdf",
+    "Papelo/Spring/Spring Security.md",
     "Papelo/Drawing 2026-04-10 01.24.23.excalidraw.md",
     "Papelo/Spring",
     "diagrama-spring-security.md",
