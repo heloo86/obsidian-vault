@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7ab03611ae2fc5",
+        "id": "7e38263a5da2a02f",
         "type": "tabs",
         "children": [
           {
-            "id": "ab207cfc6bf573cf",
+            "id": "87a568951cd1aee2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Papelo/Digrama - Papelo.md"
+                "file": "Papelo/Spring/Spring Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Digrama - Papelo"
-            }
-          },
-          {
-            "id": "aca229a0d5cdf53e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Papelo/Digrama - Papelo.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Digrama - Papelo"
+              "icon": "lucide-file",
+              "title": "Spring Security"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "right": {
     "id": "ba3abb831e71c0d1",
@@ -185,13 +174,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d24ac31f3b43602f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,18 +208,20 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "big-calendar:Big Calendar": false
     }
   },
-  "active": "bc0c8e5b8491312d",
+  "active": "87a568951cd1aee2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Papelo/Spring/Entendendo Security.pdf",
+    "2026-05-19.md",
     "Papelo/Digrama - Papelo.md",
+    "conflict-files-obsidian-git.md",
     "Papelo/Diagrama de caso de uso.md",
     "Excalidraw",
     "Papelo/Kanban.md",
     "Papelo/Spring/Spring Security.md",
-    "Papelo/Spring/Entendendo Security.pdf",
     "Papelo/Spring",
     "Papelo/diagrama-spring-security.md",
     "Papelo/Entendendo Security.pdf",
@@ -252,7 +254,6 @@
     "Untitled 3.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
