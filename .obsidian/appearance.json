@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#ffadb6",
-  "theme": "moonstone",
-  "cssTheme": "Light & Bright"
-=======
-  "accentColor": "#3d1e00",
-  "theme": "obsidian",
-  "cssTheme": "Golden Topaz"
->>>>>>> origin/main
+  "cssTheme": "Flexoki",
+  "accentColor": "#612200"
 }
