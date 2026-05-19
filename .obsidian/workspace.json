@@ -207,14 +207,13 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "aca229a0d5cdf53e",
   "lastOpenFiles": [
-    "Papelo/Diagrama de caso de uso.md",
     "Papelo/Digrama - Papelo.md",
+    "Papelo/Diagrama de caso de uso.md",
     "Excalidraw",
     "Papelo/Kanban.md",
     "conflict-files-obsidian-git.md",
