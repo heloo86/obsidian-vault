@@ -30,9 +30,23 @@
               "icon": "excalidraw-icon",
               "title": "Digrama - Papelo"
             }
+          },
+          {
+            "id": "7a197522952b5521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,16 +221,17 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "aca229a0d5cdf53e",
+  "active": "7a197522952b5521",
   "lastOpenFiles": [
     "Papelo/Digrama - Papelo.md",
+    "conflict-files-obsidian-git.md",
     "Papelo/Diagrama de caso de uso.md",
     "Excalidraw",
     "Papelo/Kanban.md",
-    "conflict-files-obsidian-git.md",
     "Papelo/Spring/Spring Security.md",
     "Papelo/Spring/Entendendo Security.pdf",
     "Papelo/Spring",
