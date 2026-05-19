@@ -251,16 +251,15 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "5af8fef5169c30d5",
   "lastOpenFiles": [
+    "Papelo/Diagrama de caso de uso.md",
     "Papelo/Digrama - Papelo.md",
     "Papelo/Kanban.md",
     "Papelo/Rabisco - cadastro.md",
-    "Papelo/Diagrama de caso de uso.md",
     "conflict-files-obsidian-git.md",
     "Papelo/Spring/Entendendo Security.pdf",
     "Papelo/Spring/Spring Security.md",
